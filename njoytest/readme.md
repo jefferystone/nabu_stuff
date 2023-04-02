@@ -1,1 +1,1 @@
-njoytest
+njoytest - NABU Joystick Test
