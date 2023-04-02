@@ -8,5 +8,5 @@ Works with MAME NABUPC (nabupc-wip branch)
 
 njoytest.nabu - works with nabud (haven't tested with any other, but should work)
 
-njoytest.com - works with Cloud CP/M
+njoytest.com - works with Cloud CP/M (works with Leo's NABU CP/M 3.0, but crashes on exit)
 
