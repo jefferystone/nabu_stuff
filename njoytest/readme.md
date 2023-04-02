@@ -1,5 +1,7 @@
 njoytest - NABU Joystick Test
 
+I used snake.c (by David Latham aka productiondave) as a starting point:  https://github.com/linuxplayground/nabu-games
+
 Does not work with ISHKUR CP/M
 
 Does not work with Marduk
